@@ -61,7 +61,8 @@ table {
 
 body {
   color: #a67c00;
-  background-color: #740000
+  background-color: #740000;
+  font-family: "teko", Arial, Helvetica, sans-serif;
 }
 
 
@@ -157,7 +158,7 @@ h1, h3, h4, h5, p {
 */
 
 .logo {
-  border-top: 4px solid #648880;
+  border-top: 4px solid #ffffff;
   float: left;
   padding: 40px 0 22px 0;
 }
