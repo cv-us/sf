@@ -61,8 +61,12 @@ table {
 
 body {
   color: #a67c00;
-  background-color: #740000;
+  background-color: #670000;
   font-family: "teko", Arial, Helvetica, sans-serif;
+  font-variant: small-caps;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 100%;
 }
 
 
